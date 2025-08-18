@@ -1,4 +1,4 @@
-import Aesthetic from '../assets/aesthetic.jpg';
+import Aesthetic from '../assets/Aesthetic.jpg';
 export default function Hero() {
   return (
     <section className="relative h-screen w-full bg-[#e8e8e3] flex flex-col justify-between px-10 py-8">
