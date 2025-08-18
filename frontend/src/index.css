@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  --text-h1: 125px;
+  --text-heading-display: 100px;
+  --tracking-heading: -0.05em;
+  --color-secondary-400: #4a4a4a;
+}
+
