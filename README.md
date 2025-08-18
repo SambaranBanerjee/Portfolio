@@ -75,12 +75,7 @@ npm run dev
 📧 Email: sambaranb25@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/sambaran-banerjee-4b89b9299
-
-🐙 GitHub: https://github.com/SambaranBanerjee
 ---
 
 
-
-
-## 📂 Project Structure  
-
+## 📂 Project Structu
