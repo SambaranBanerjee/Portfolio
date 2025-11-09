@@ -3,7 +3,7 @@
 A modern, interactive, and fully responsive **portfolio website** built with **React, Tailwind CSS, and Framer Motion**.  
 It showcases projects, skills, and experiences in a clean, minimalistic, and aesthetic way.  
 
----
+-
 
 ## ✨ Features  
 
