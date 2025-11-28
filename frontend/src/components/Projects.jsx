@@ -1,9 +1,11 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable no-unused-vars */
 import { useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import TimezoneClock from "../assets/videos/TimezoneClock.mp4";
 import Trayana_App from "../assets/videos/Trayana_App.mp4";
 import Portfolio from "../assets/videos/Portfolio.mp4";
+import Calanjiyam from "../assets/videos/Calanjiyam_Demo.mp4";
 
 const projects = [
   
@@ -21,9 +23,9 @@ const projects = [
   },
   {
     id: 3,
-    name: "Timezone Clock",
-    tech: "HTML5, CSS3, JavaScript",
-    video: TimezoneClock,
+    name: "The GiftHub",
+    tech: "TypeScript, Java, Spring Boot, MySQL, CSS3",
+    video: Calanjiyam,
   },
 ];
 
