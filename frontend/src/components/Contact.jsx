@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { ArrowUp } from "lucide-react"; // Icon for scroll to top
-import CV from "/Sambaran_Banerjee_s_Internship_Resume.pdf";
+import CV from "../../public/Sambaran_Banerjee_s_Resume_OnePage(NOV).pdf";
 
 export default function Contact() {
   const email = "Sambaranb25@gmail.com";
