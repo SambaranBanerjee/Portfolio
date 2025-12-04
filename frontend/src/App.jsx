@@ -5,7 +5,6 @@ import Works from "./components/Projects";
 import Services from "./components/Services";
 import About from "./components/About";
 import Contact from "./components/Contact";
-//import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -16,7 +15,6 @@ export default function App() {
       <section id="works"><Works /></section>
       <section id="about"><About /></section>
       <section id="contact"><Contact /></section>
-      {/* <Footer /> */}
     </div>
   );
 }
